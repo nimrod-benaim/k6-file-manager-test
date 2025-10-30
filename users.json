@@ -1,0 +1,36 @@
+[
+  {
+    "username": "admin",
+    "password": "admin"
+  }
+  ,
+  {
+    "username": "nimrod1",
+    "password": "nimrod11"
+  }
+  ,
+ {
+    "username": "nimrod2",
+    "password": "nimrod22"
+  }
+  ,
+ {
+    "username": "nimrod3",
+    "password": "nimrod33"
+  }
+  ,
+  {
+    "username": "nimrod4",
+    "password": "nimrod44"
+  }
+  ,
+  {
+    "username": "nimrod5",
+    "password": "nimrod55"
+  }
+    ,
+  {
+    "username": "nimrod6",
+    "password": "nimrod6" 
+  }
+]
